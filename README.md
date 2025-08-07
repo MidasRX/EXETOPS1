@@ -25,9 +25,6 @@ PowerShell Obfuscator & Downloader Generator is a C# console application designe
 ### 🎓 Educational Value
 
 This project demonstrates:
-- **Obfuscation Techniques**: Character-based command obfuscation
-- **Payload Hiding**: Concealing malicious code within legitimate-looking operations
-- **Anti-Detection Methods**: Techniques used by malware authors
 - **PowerShell Security**: Understanding how attackers bypass security measures
 
 ## ✨ Features
