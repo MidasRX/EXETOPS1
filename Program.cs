@@ -12,7 +12,7 @@ namespace PowerShellObfuscator
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("╔══════════════════════════════════════════════════════════════╗");
             Console.WriteLine("║              PowerShell Obfuscator Generator                 ║");
-            Console.WriteLine("║                     By MidasRX                          ║");
+            Console.WriteLine("║                     By MidasRX                               ║");
             Console.WriteLine("╚══════════════════════════════════════════════════════════════╝");
             Console.ResetColor();
             Console.WriteLine();
@@ -310,3 +310,4 @@ namespace PowerShellObfuscator
         }
     }
 }
+
